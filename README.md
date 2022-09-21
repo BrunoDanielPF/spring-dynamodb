@@ -1,5 +1,5 @@
 # spring-dynamodb
-
+https://github.com/boostchicken/spring-data-dynamodb
 tutorial =
 step 1 - run docker-compose 
 step 2 - dun application
